@@ -14,8 +14,4 @@ Our app has a chart, so the user can easily compare the income and outcome.
 
 The user's income and expense entry list is stored in the local storage, so when he refreshes the page, or reboot his machine, he can always find  his data there.
 
-to follow the tutorial step by step, when we get to the second part (when we type the code), you'll need to download the starter template.
-
-And then you can follow the tutorial on Youtube: https://youtu.be/SQbCwfGC7EM
-
-When you open the folder, you'll find all the files needed to get started, the CSS code is already typed (see style.css file), as we're not going to talk about CSS in our tutorial. we're going just to talk about HTML and JavaScript.
+ 
